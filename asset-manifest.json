@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gojak/static/css/main.e7dfb233.css",
-    "main.js": "/gojak/static/js/main.51c89648.js",
+    "main.js": "/gojak/static/js/main.1dcd9d7f.js",
     "index.html": "/gojak/index.html",
     "main.e7dfb233.css.map": "/gojak/static/css/main.e7dfb233.css.map",
-    "main.51c89648.js.map": "/gojak/static/js/main.51c89648.js.map"
+    "main.1dcd9d7f.js.map": "/gojak/static/js/main.1dcd9d7f.js.map"
   },
   "entrypoints": [
     "static/css/main.e7dfb233.css",
-    "static/js/main.51c89648.js"
+    "static/js/main.1dcd9d7f.js"
   ]
 }
