@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/gojak/static/css/main.e7dfb233.css",
-    "main.js": "/gojak/static/js/main.ded9616a.js",
-    "index.html": "/gojak/index.html",
-    "main.e7dfb233.css.map": "/gojak/static/css/main.e7dfb233.css.map",
-    "main.ded9616a.js.map": "/gojak/static/js/main.ded9616a.js.map"
+    "main.css": "/https//rfun-dev.github.io/gojak/static/css/main.e7dfb233.css",
+    "main.js": "/https//rfun-dev.github.io/gojak/static/js/main.ded9616a.js",
+    "index.html": "/https//rfun-dev.github.io/gojak/index.html",
+    "main.e7dfb233.css.map": "/https//rfun-dev.github.io/gojak/static/css/main.e7dfb233.css.map",
+    "main.ded9616a.js.map": "/https//rfun-dev.github.io/gojak/static/js/main.ded9616a.js.map"
   },
   "entrypoints": [
     "static/css/main.e7dfb233.css",
