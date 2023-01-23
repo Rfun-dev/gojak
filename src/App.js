@@ -11,11 +11,11 @@ function App() {
   return (
     <HashRouter>
       <Routes>
-        <Route path="/gojak/" element={<Home />} />
-        <Route path="/gojak/careers" element={<Careers />} />
-        <Route path="/gojak/product" element={<Product />} />
-        <Route path="/gojak/blog" element={<Blog />} />
-        <Route path="/gojak/profile" element={<Profile />} />
+        <Route path="/" element={<Home />} />
+        <Route path="careers" element={<Careers />} />
+        <Route path="product" element={<Product />} />
+        <Route path="blog" element={<Blog />} />
+        <Route path="profile" element={<Profile />} />
       </Routes>
     </HashRouter>
   );
