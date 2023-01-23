@@ -9,7 +9,7 @@ import Profile from "./page/Profile";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/gojak/'>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/careers" element={<Careers />} />
