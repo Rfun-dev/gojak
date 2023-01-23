@@ -12,12 +12,12 @@ function Moment() {
                     <button class="bg-white hover:bg-gray-700 hover:text-white text-black font-bold py-2 px-4 rounded-full mt-10">Know More</button>
                 </div>
                 <div>
-                    <img src='/images/oppur-chart.png' className='w-80'/>
+                    <img src='https://rfun-dev.github.io/gojak/images/oppur-chart.png' className='w-80'/>
                 </div>
             </div>
             <div className='flex items-center justify-around bg-pink-900 rounded-t-3xl p-20 -my-10'>
                 <div className=' mr-80'>
-                    <img src='/images/oppur-greener.png' className='w-80'/>
+                    <img src='https://rfun-dev.github.io/gojak/images/oppur-greener.png' className='w-80'/>
                 </div>
                 <div className='text-white'>
                     <p className='text-xs mb-5'>#winning_moment</p>
@@ -34,7 +34,7 @@ function Moment() {
                     <button class="bg-white hover:bg-gray-700 hover:text-white text-black font-bold py-2 px-4 rounded-full mt-10">Know More</button>
                 </div>
                 <div>
-                    <img src='/images/oppur-chart.png' className='w-80'/>
+                    <img src='https://rfun-dev.github.io/gojak/images/oppur-chart.png' className='w-80'/>
                 </div>
             </div>
         </div> 

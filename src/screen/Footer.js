@@ -6,7 +6,7 @@ function Footer() {
     <div className="bg-black">
       <div className="px-28 py-[5px] text-white gap-5 mt-5">
         <div className="flex -ml-8">
-          <img src="/images/icon2.png" alt="" className="w-24 -mt-16 -mr-4" />
+          <img src="https://rfun-dev.github.io/gojak/images/icon2.png" alt="" className="w-24 -mt-16 -mr-4" />
           <h1 className="text-3xl font-bold">gojek</h1>
         </div>
         <div className="grid grid-cols-6 gap-9 -mt-5">

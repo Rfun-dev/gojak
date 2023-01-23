@@ -9,16 +9,16 @@ function Donwload() {
         </h1>
         <div className="flex mt-10">
           <button className="bg-white px-5 py-3 text-slate-900 rounded-full mr-3">
-            <img src="images/google.png" className="w-5 h-5 inline-block" />{" "}
+            <img src="https://rfun-dev.github.io/gojak/images/google.png" className="w-5 h-5 inline-block" />{" "}
             Play Store
           </button>
           <button className="bg-white px-5 py-3 text-slate-900 rounded-full">
-            <img src="images/apple.png" className="w-5 h-5 inline-block" /> App
+            <img src="https://rfun-dev.github.io/gojak/images/apple.png" className="w-5 h-5 inline-block" /> App
             Store
           </button>
         </div>
       </div>
-      <img src="/images/data-download.png" className="w-[600px] "/> 
+      <img src="https://rfun-dev.github.io/gojak/images/data-download.png" className="w-[600px] "/> 
     </div>
   );
 }

@@ -3,7 +3,7 @@ import React from 'react'
 function Loyalty() {
   return (
     <div className={'flex items-center justify-center mt-16'}>
-        <img src='images/loyality.png' className='w-96 h-96'/>
+        <img src='https://rfun-dev.github.io/gojak/images/loyality.png' className='w-96 h-96'/>
         <div className='w-[500px]'>
             <h1 className='text-6xl font-bold text-white mt-10'>Gojek Loyalty Program</h1>
             <p className='text-white mt-10'>Make more trasaction, get more reward !</p>

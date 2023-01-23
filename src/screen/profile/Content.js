@@ -13,7 +13,7 @@ function Content() {
                     </span>
                 </div>
                 <div className="mt-6 w-fit mx-auto">
-                    <img src="/images/chainsawman.png" className="rounded-full w-28 " alt="profile picture" srcset=""/>
+                    <img src="https://rfun-dev.github.io/gojak/images/chainsawman.png" className="rounded-full w-28 " alt="profile picture" srcset=""/>
                 </div>
 
                 <div className="mt-8">
