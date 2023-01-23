@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/gojak/static/css/main.e7dfb233.css",
-    "main.js": "/gojak/static/js/main.ded9616a.js",
-    "index.html": "/gojak/index.html",
-    "main.e7dfb233.css.map": "/gojak/static/css/main.e7dfb233.css.map",
-    "main.ded9616a.js.map": "/gojak/static/js/main.ded9616a.js.map"
+    "main.css": "/static/css/main.e7dfb233.css",
+    "main.js": "/static/js/main.ded9616a.js",
+    "index.html": "/index.html",
+    "main.e7dfb233.css.map": "/static/css/main.e7dfb233.css.map",
+    "main.ded9616a.js.map": "/static/js/main.ded9616a.js.map"
   },
   "entrypoints": [
     "static/css/main.e7dfb233.css",
